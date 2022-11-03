@@ -1,1 +1,112 @@
 # ownprojects
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+
+        <title>Kavin's personal site</title>
+
+        <link rel="stylesheet" href="styles.css" type="text/css">
+
+    </head>
+
+    <body>
+
+        <div class="god">
+
+            <h3>All praises goes to God</h3>
+
+        </div>
+
+        <div class="heading">
+
+            <h1>Hello world!</h1>
+
+            <h2>This is Kavin , a developer</h2>
+
+        </div>
+
+        <div class="picture">
+
+            <img src="kavin.png" alt="pic" width="125" name="pic" id="pic">
+
+        </div>
+
+        <div class="bio">
+
+           <p id=bios>Currently I'm pursuing BTech IT at SKCET</p><p id="emoji">&#128516;</p>
+
+           </p>
+
+        </div>
+
+        <h2>My Skills</h2>
+
+        <div class="skills">
+
+            <img src="skill.png" alt="skill" width="120" id="skilli"> <p class="program">Coding</p>
+
+            <p id="skillp">I love to code <br>It was my dream since my childhood to become a developer<br>Inspired by GTA games<br> I started to learn code during my 11th std and I felt that it is more interesting <br>Still Iam a newbie and I want to learn as much as I can <br>I hope I will develope my own application in the near future <br>I Love to learn new things and upgrade my skills
+
+            </p><img src="stars1.png" alt="border" id="cloud" width="200">
+
+        </div>
+
+        <div class="learnt">
+
+            <p class="program">Programming</p><img src="pgm.png" alt="learnings" width="100" id="learnpic">
+
+           <p id="learnp">Over the time I've gained little knowledge about programming languages <br>I've learnt C,C++,Python and Java <br>One of my biggest aim is to master data structures and algorithms</p><img src="stars1.png" alt="border" id="cloud" width="200">
+
+           </div>
+
+        <div class="skills">
+
+            <img src="skill.png" alt="skill" width="120" id="skilli"> <p class="program">Web Design & Developement</p>
+
+            <p id="skillp">I wanna be a full stack developer<br>After gaining little knowledge about backend programming,I've concentrated in frontend and learnt some basics like HTML,CSS</p><img src="stars1.png" alt="border" id="cloud" width="200">
+
+        </div>
+
+        <div class="low">
+
+            <h4>If you love coding as much as i do?<br> let's stay in touch and discuss how awesome it is!</h4>
+
+        </div>
+
+        <div>
+
+            <form action="mailto:skavinspravin123@gmail.com"  method="get">
+
+                <button class="button">Contact me</button>
+
+            </form>
+
+        </div>
+
+        <div>
+
+          <ul class="under">
+
+            <li class="links" id="insta">
+
+                <a href="https://www.instagram.com/clever_kavin_17/" target="_blank" class="insta">Instagram</a>
+
+            </li>
+
+            <li class="links" id="linked">
+
+                <a href="https://www.linkedin.com//in//kavin-s-370754246" target="_blank" class="insta">Linkedin</a>
+
+            </li>
+
+          </ul>
+
+          <p>&#169 Kavin S</p>
+
+        </div>
+
+    </body>
+
+</html>
